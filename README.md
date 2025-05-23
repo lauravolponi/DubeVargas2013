@@ -1,9 +1,9 @@
 # DubeVargas2013
 Julia replication package for Dube & Vargas (REStud, 2013). [Full reference: Dube, O., & Vargas J.F. (2013). Commodity Price Shocks and Civil Conflict: Evidence from Colombia. The Review of Economic Studies, 80(4), 1384–1421.]
 
-**Authors:** Jacopo Spagnolo & Laura Volponi
-**Course:** Structural Econometrics with Computational Applications, Spring 2025, University of Turin - Collegio Carlo Alberto (course website: https://floswald.github.io/CompEcon/)
-**Paper Reference:** Dube, O., & Vargas, J.F. (2013). Commodity Price Shocks and Civil Conflict: Evidence from Colombia. The Review of Economic Studies, 80(4), 1384–1421.
+Authors: Jacopo Spagnolo (jacopo.spagnolo@carloalberto.org) & Laura Volponi (laura.volponi@carloalberto.org)
+Course: Structural Econometrics with Computational Applications, Spring 2025, University of Turin - Collegio Carlo Alberto (course website: https://floswald.github.io/CompEcon/)
+Paper Reference: Dube, O., & Vargas, J.F. (2013). Commodity Price Shocks and Civil Conflict: Evidence from Colombia. The Review of Economic Studies, 80(4), 1384–1421.
 
 ## Overview of the Package
 This Julia package replicates the main findings of Dube & Vargas (2013), which investigates how international commodity price shocks affect civil conflict in Colombia. The replicated outputs include key empirical tables and figures from the original paper.
