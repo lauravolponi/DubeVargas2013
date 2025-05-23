@@ -52,7 +52,7 @@ The package replicates the following outputs from the paper:
 
 Table 1: Summary Statistics of key variables for the 1988-2005 period. Replicated columns include Variable, Obs, Mean, Med, SD, Min, and Max.
 
-Figure 2: The coffee price and exports of main producers (Brazil, Colombia, Vietnam, Indonesia) for the period 1988-2005. Note: coffee export data from the INternational Cofee Organization (ICO) and coffee price data from the NFCG are not available in the replication package due to the fact that data are not open access.
+Figure 2: The coffee price and exports of main producers (Brazil, Colombia, Vietnam, Indonesia) for the period 1988-2005. Note: coffee export data from the INternational Cofee Organization (ICO) and coffee price data from the NFCG are not included in the replication package because the data are not publicly available.
 
 Figure 3: Mean violence in Colombian municipalities, 1988-2005.
 
